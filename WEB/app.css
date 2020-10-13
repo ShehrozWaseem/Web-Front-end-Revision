@@ -1,0 +1,31 @@
+header{
+    font-size: 30px;
+    color: teal;
+}
+.dislikes a{
+    font-style: inherit;
+
+}
+#post button:hover{
+    background-color: red;
+    color: royalblue;
+    text-decoration: overline;
+}
+#kob button:active{
+    background-color: seagreen;
+}
+
+.btn:nth-of-type(2n){
+    background-color: pink;
+}
+.btn{
+    background-color: purple;
+}
+
+a:hover{
+    color: orange;
+}
+/* pseudo elements */
+a::selection{
+    background-color: orchid;
+}
