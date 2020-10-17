@@ -1,0 +1,60 @@
+/* .ok {
+    background-color: palevioletred;
+    border: 1px solid black;
+    width: 175px;
+    height: 60px;
+    margin : 150px auto;
+}
+/* div{
+    transition: 1s 0s;
+} */
+/* h1{
+    text-align: center;
+}
+section:hover{
+    transform: rotate(360deg) translateX(150px);
+    transition: 2s;
+} */ 
+
+/* button hover */
+
+/* body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #151b29;
+}
+button{
+    background: none;
+    color: #ffa260;
+    border: 2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+    transition: all 0.2s;
+}
+
+button:hover{
+border-color: yellow;
+border-radius: 6em;
+color: white;
+box-shadow: 0 0.5em 0.5em -0.4em;
+transform: translateY(-0.25em);
+cursor: pointer;
+} */
+
+/* PHOTO BLOG */
+img{ 
+    width: 30%;
+    margin: calc(10%/6);
+}
+
+nav{
+    text-transform: uppercase;
+    font-size: 1.5em;
+border-bottom: 2px solid #ccb5b5;
+width: 30%;
+margin-left: calc(10%/6);
+padding: 1.2em 0;
+}
